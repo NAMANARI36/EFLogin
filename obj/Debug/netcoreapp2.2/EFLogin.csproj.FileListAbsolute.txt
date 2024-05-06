@@ -29,3 +29,11 @@ C:\Users\Alessio\Desktop\EFLogin\obj\Debug\netcoreapp2.2\EFLogin.pdb
 C:\Users\Alessio\Desktop\EFLogin\obj\Debug\netcoreapp2.2\EFLogin.csproj.CopyComplete
 C:\Users\Alessio\Desktop\EFLogin\obj\Debug\netcoreapp2.2\Razor\Views\Logged\Index.g.cshtml.cs
 C:\Users\Alessio\Desktop\EFLogin\obj\Debug\netcoreapp2.2\Razor\Views\SignIn\Index.g.cshtml.cs
+C:\Users\Alessio\Documents\GitHub\EFLogin\obj\Debug\netcoreapp2.2\EFLogin.csprojAssemblyReference.cache
+C:\Users\Alessio\Documents\GitHub\EFLogin\obj\Debug\netcoreapp2.2\EFLogin.csproj.CoreCompileInputs.cache
+C:\Users\Alessio\Documents\GitHub\EFLogin\obj\Debug\netcoreapp2.2\EFLogin.RazorAssemblyInfo.cache
+C:\Users\Alessio\Documents\GitHub\EFLogin\obj\Debug\netcoreapp2.2\EFLogin.RazorAssemblyInfo.cs
+C:\Users\Alessio\Documents\GitHub\EFLogin\obj\Debug\netcoreapp2.2\EFLogin.AssemblyInfoInputs.cache
+C:\Users\Alessio\Documents\GitHub\EFLogin\obj\Debug\netcoreapp2.2\EFLogin.AssemblyInfo.cs
+C:\Users\Alessio\Documents\GitHub\EFLogin\obj\Debug\netcoreapp2.2\EFLogin.dll
+C:\Users\Alessio\Documents\GitHub\EFLogin\obj\Debug\netcoreapp2.2\EFLogin.pdb
