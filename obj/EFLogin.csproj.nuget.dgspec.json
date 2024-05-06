@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alessio\\Desktop\\EFLogin\\EFLogin.csproj": {}
+    "C:\\Users\\Alessio\\Documents\\GitHub\\EFLogin\\EFLogin.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alessio\\Desktop\\EFLogin\\EFLogin.csproj": {
+    "C:\\Users\\Alessio\\Documents\\GitHub\\EFLogin\\EFLogin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alessio\\Desktop\\EFLogin\\EFLogin.csproj",
+        "projectUniqueName": "C:\\Users\\Alessio\\Documents\\GitHub\\EFLogin\\EFLogin.csproj",
         "projectName": "EFLogin",
-        "projectPath": "C:\\Users\\Alessio\\Desktop\\EFLogin\\EFLogin.csproj",
+        "projectPath": "C:\\Users\\Alessio\\Documents\\GitHub\\EFLogin\\EFLogin.csproj",
         "packagesPath": "C:\\Users\\Alessio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alessio\\Desktop\\EFLogin\\obj\\",
+        "outputPath": "C:\\Users\\Alessio\\Documents\\GitHub\\EFLogin\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

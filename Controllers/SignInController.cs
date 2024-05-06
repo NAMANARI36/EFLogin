@@ -20,9 +20,11 @@ namespace EFLogin.Controllers
 
         public IActionResult Index()
         {
+            CreateNewUser();
             return View();
         }
 
+       
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()

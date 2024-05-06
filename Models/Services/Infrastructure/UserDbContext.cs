@@ -21,21 +21,43 @@ namespace EFLogin.Models.Entities
         {
             if (!optionsBuilder.IsConfigured)
             {
-#warning To protect potentially sensitive information in your connection string, you should move it out of source code. See http://go.microsoft.com/fwlink/?LinkId=723263 for guidance on storing connection strings.
-                optionsBuilder.UseSqlite("Data Source=Data/MyCourse.db");
+                optionsBuilder.UseSqlite("Data Source=Data/Utenti.db");
             }
         }
+
+
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.HasAnnotation("ProductVersion", "2.2.6-servicing-10079");
+            //Mappatura con le Fluent API
+            modelBuilder.Entity<User>()
+            .ToTable("Users");
 
-            modelBuilder.Entity<User>(entity => entity.ToTable(""))
+            modelBuilder.Entity<User>()
+            .Property(u => u.Id)
+            .HasColumName("ID");
 
+            modelBuilder.Entity<User>()
+            .Property(u => u.Password)
+            .HasColumName("Password");
 
+            modelBuilder.Entity<User>()
+            .Property(u => u.Name)
+            .HasColumnName("Name");
+
+            modelBuilder.Entity<User>()
+            .Property(u => u.Country)
+            .HasColumnName("Country");
+
+            modelBuilder.Entity<User>()
+            .Property(u => u.Email)
+            .HasColumnName("Email");
         }
+        
 
 
 
 
     }
+}
